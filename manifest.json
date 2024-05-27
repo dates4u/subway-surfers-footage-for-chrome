@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "subway surfers footage for chrome",
+  "version": "1.0",
+  "description": "Shows a video when the extension is opened.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [],
+  "icons": {
+    "48": "icon.png"
+  }
+}
